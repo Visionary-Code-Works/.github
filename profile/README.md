@@ -4,7 +4,7 @@
 Creating a README file for an organization like "Visionary Code Works" on a platform like GitHub or GitLab is different from a project-specific README. This organizational README typically provides an overview of the organization, its mission, projects, and how to get involved or contribute. Here's a template you can use as a starting point:
 -->
 
-[![Visionary Code Works Logo](link-to-logo-if-available)]()
+[![Visionary Code Works Logo](/img/VCW_tech_logo.png)](https://github.com/Visionary-Code-Works)
 
 Welcome to **Visionary Code Works**, a hub of innovative and cutting-edge software projects. Our mission is to develop software solutions that push the boundaries of technology and creativity.
 
