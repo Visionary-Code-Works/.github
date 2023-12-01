@@ -24,7 +24,8 @@ Visionary Code Works is an organization dedicated to fostering a community of de
 
 Here's a highlight of some of our key projects:
 
-- **[Project Name 1](link-to-repository)**: Brief description of what this project does.
+- **[Stock_Getter](https://github.com/Visionary-Code-Works/stock_getter)**: This tool provides various functionalities for analyzing stock market data, including comparative analysis, volatility measurement, Fibonacci retracement 
+                                                                            levels, and more. It utilizes the yfinance library to fetch historical data from Yahoo Finance and matplotlib for data visualization.
 - **[Project Name 2](link-to-repository)**: A short description of this project's purpose.
 - ... (more projects)
 
