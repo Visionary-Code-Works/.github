@@ -4,7 +4,11 @@
 Creating a README file for an organization like "Visionary Code Works" on a platform like GitHub or GitLab is different from a project-specific README. This organizational README typically provides an overview of the organization, its mission, projects, and how to get involved or contribute. Here's a template you can use as a starting point:
 -->
 
-[![Visionary Code Works Logo](/img/VCW_tech_logo.png)](https://github.com/Visionary-Code-Works)
+<div style="float: left; margin-right: 10px;">
+    <a href="https://github.com/Visionary-Code-Works">
+        <img src="/img/VCW_tech_logo.png" alt="Visionary Code Works Logo" width="100" height="100">
+    </a>
+</div>
 
 Welcome to **Visionary Code Works**, a hub of innovative and cutting-edge software projects. Our mission is to develop software solutions that push the boundaries of technology and creativity.
 
@@ -18,8 +22,7 @@ Visionary Code Works is an organization dedicated to fostering a community of de
 
 Here's a highlight of some of our key projects:
 
-- **[Stock_Getter](https://github.com/Visionary-Code-Works/stock_getter)**: This tool provides various functionalities for analyzing stock market data, including comparative analysis, volatility measurement, Fibonacci retracement 
-                                                                            levels, and more. It utilizes the yfinance library to fetch historical data from Yahoo Finance and matplotlib for data visualization.
+- **[Stock_Getter](https://github.com/Visionary-Code-Works/stock_getter)**: This tool provides various functionalities for analyzing stock market data, including comparative analysis, volatility measurement, Fibonacci retracement levels, and more. It utilizes the yfinance library to fetch historical data from Yahoo Finance and matplotlib for data visualization.
 - **[Project Name 2](link-to-repository)**: A short description of this project's purpose.
 - ... (more projects)
 
@@ -31,8 +34,8 @@ Explore all our projects [here](link-to-projects-page).
 
 We are always looking for enthusiastic contributors, regardless of skill level! If you are interested in contributing to our projects, here's how you can get started:
 
-- **Contributing**: Check out our [contribution guidelines](link-to-contribution-guidelines).
-- **Discussions**: Join our [community discussions](link-to-discussions-forum) and share your ideas.
+- **Contributing**: Check out our [contribution guidelines]().
+- **Discussions**: Join our [community discussions](https://github.com/orgs/Visionary-Code-Works/discussions) and share your ideas.
 - **Support**: If you need help or have questions, reach out to us [here](link-to-support-channel).
 
 ## Stay Connected
@@ -47,7 +50,7 @@ We are grateful for the support of our sponsors and partners. [Learn more](link-
 
 ## Contact Us
 
-Have questions or want to get in touch with our team? Contact us at [email](mailto:contact-email).
+Have questions or want to get in touch with our team? Contact us at [email](mailto:thaddeus.r.thomas@gmail.com).
 
 ### 🍿 Fun facts
 
