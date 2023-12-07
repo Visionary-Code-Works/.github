@@ -1,0 +1,24 @@
+blank_issues_enabled: false  # Disables the option to open a blank issue
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.community
+    about: Please ask and answer questions here.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com
+    about: Please report security vulnerabilities here.
+issue_templates:
+  - name: Documentation Update
+    description: Report an issue related to the project's documentation
+    labels: [documentation]
+    assignees: [username1, username2]
+    title: "[Documentation]: "
+  - name: Security Vulnerability
+    description: Report a security vulnerability in the project
+    labels: [security]
+    assignees: [username1, username2]
+    title: "[Security]: "
+  - name: Performance Issue
+    description: Report a performance issue in the project
+    labels: [performance]
+    assignees: [username1, username2]
+    title: "[Performance]: "
