@@ -1,9 +1,5 @@
 # Visionary Code Works
 
-<!--
-Creating a README file for an organization like "Visionary Code Works" on a platform like GitHub or GitLab is different from a project-specific README. This organizational README typically provides an overview of the organization, its mission, projects, and how to get involved or contribute. Here's a template you can use as a starting point:
--->
-
 <div style="float: left; margin-right: 10px;">
     <a href="https://github.com/Visionary-Code-Works">
         <img src="/img/VCW_tech_logo.png" alt="Visionary Code Works Logo" width="100" height="100">
@@ -51,9 +47,3 @@ We are grateful for the support of our sponsors and partners. [Learn more](link-
 ## Contact Us
 
 Have questions or want to get in touch with our team? Contact us at [email](mailto:thaddeus.r.thomas@gmail.com).
-
-### 🍿 Fun facts
-
-- what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
