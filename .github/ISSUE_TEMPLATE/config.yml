@@ -1,0 +1,84 @@
+# Configuration for issue templates
+blank_issues_enabled: false  # Disables the option to create blank issues
+contact_links:
+  - name: Support
+    url: https://support.example.com
+    about: Please visit our support page for help with your query.
+  - name: Documentation
+    url: https://docs.example.com
+    about: Check out our documentation for detailed information.
+
+issue_templates:
+  - name: Bug Report
+    about: Report a bug in the project.
+    title: "[BUG] "
+    labels: ["bug", "triage"]
+    template: bug_report.yml
+
+  - name: Code Refactoring
+    about: Suggest an improvement in the codebase.
+    title: "[REFACTOR] "
+    labels: ["refactor"]
+    template: code_refactoring.yml
+
+  - name: Community Proposal
+    about: Propose an idea for the community.
+    title: "[PROPOSAL] "
+    labels: ["proposal", "community"]
+    template: community_proposal_form.yml
+
+  - name: Data Issue
+    about: Report issues related to data.
+    title: "[DATA] "
+    labels: ["data", "triage"]
+    template: data_issue.yml
+
+  - name: Design Proposal
+    about: Suggest a new design or design change.
+    title: "[DESIGN] "
+    labels: ["design"]
+    template: design_proposal_form.yml
+
+  - name: Documentation Update
+    about: Suggest improvements or report issues in documentation.
+    title: "[DOCS] "
+    labels: ["documentation"]
+    template: documentation_update.yml
+
+  - name: Performance Issue
+    about: Report performance issues and suggest enhancements.
+    title: "[PERFORMANCE] "
+    labels: ["performance"]
+    template: performance_issue.yml
+
+  - name: Security Vulnerability
+    about: Report security vulnerabilities.
+    title: "[SECURITY] "
+    labels: ["security", "urgent"]
+    template: security_vulnerability.yml
+
+  - name: Technical Debt
+    about: Identify and address technical debt in the project.
+    title: "[TECHDEBT] "
+    labels: ["techdebt", "refactor"]
+    template: technical_debt.yml
+
+  - name: Test Failure
+    about: Report failing tests or suggest new tests.
+    title: "[TEST] "
+    labels: ["test", "bug"]
+    template: test_failure_form.yml
+
+  - name: Update Documentation
+    about: Propose updates or corrections to the documentation.
+    title: "[UPDATE DOCS] "
+    labels: ["documentation", "update"]
+    template: update_documentation.yml
+
+  - name: User Experience/Usability
+    about: Suggest improvements for user experience and usability.
+    title: "[UX] "
+    labels: ["usability", "enhancement"]
+    template: user_experience-usability.yml
+
+# Note: This is just an example. Modify the labels, titles, and descriptions according to your project needs.
