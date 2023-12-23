@@ -1,2 +1,2 @@
-https://github.com/github-changelog-generator/github-changelog-generator
-https://github.com/semantic-release/semantic-releasehttps://github.com/semantic-release/semantic-release
+[Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator)
+[Semantic Release](https://github.com/semantic-release/semantic-release)
