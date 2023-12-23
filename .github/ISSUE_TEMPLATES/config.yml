@@ -22,3 +22,14 @@ issue_templates:
     labels: [performance]
     assignees: [username1, username2]
     title: "[Performance]: "
+
+
+# Configuration for issue templates
+blank_issues_enabled: false  # Disables the option to create blank issues
+contact_links:
+  - name: Support
+    url: https://support.example.com
+    about: Please visit our support page for help with your query.
+  - name: Documentation
+    url: https://docs.example.com
+    about: Check out our documentation for detailed information.
