@@ -19,31 +19,30 @@ Visionary Code Works is an organization dedicated to fostering a community of de
 Here's a highlight of some of our key projects:
 
 - **[Stock_Getter](https://github.com/Visionary-Code-Works/stock_getter)**: This tool provides various functionalities for analyzing stock market data, including comparative analysis, volatility measurement, Fibonacci retracement levels, and more. It utilizes the yfinance library to fetch historical data from Yahoo Finance and matplotlib for data visualization.
-- **[Project Name 2](link-to-repository)**: A short description of this project's purpose.
-- ... (more projects)
+- **[vcw-scss-layout](https://github.com/Visionary-Code-Works/vcw-scss-layout)**: A robust SCSS layout framework designed for flexibility and ease of use in web development projects. [npm location](https://www.npmjs.com/package/vcw-scss-layout) | [CDN on Github Pages](http://vcwtech.com/vcw-scss-layout/)
 
-### 👩‍💻 Useful resources <!-- where can the community find your docs? Is there anything else the community should know? -->
+### 👩‍💻 Useful resources
 
-Explore all our projects [here](link-to-projects-page).
+Explore all our projects [here](https://github.com/orgs/Visionary-Code-Works/projects).
 
 ## 🌈 Contribution guidelines | Getting Involved - how can the community get involved?
 
 We are always looking for enthusiastic contributors, regardless of skill level! If you are interested in contributing to our projects, here's how you can get started:
 
-- **Contributing**: Check out our [contribution guidelines]().
+- **Contributing**: Check out our [contribution guidelines](https://github.com/Visionary-Code-Works/CONTRIBUTING.md).
 - **Discussions**: Join our [community discussions](https://github.com/orgs/Visionary-Code-Works/discussions) and share your ideas.
-- **Support**: If you need help or have questions, reach out to us [here](link-to-support-channel).
+- **Support**: If you need help or have questions, reach out to us [here](https://github.com/Visionary-Code-Works/support).
 
 ## Stay Connected
 
-- **[Newsletter](link-to-newsletter)**: Subscribe to our newsletter for updates.
-- **[Blog](link-to-blog)**: Read our latest articles and project updates.
-- **[Social Media](link-to-social-media)**: Follow us on our social media channels.
+- **[Newsletter](https://vcwtech.com/newsletter)**: Subscribe to our newsletter for updates.
+- **[Blog](https://vcwtech.com/blog)**: Read our latest articles and project updates.
+- **[Social Media](https://vcwtech.com/social-media)**: Follow us on our social media channels.
 
 ## Sponsors and Partners
 
-We are grateful for the support of our sponsors and partners. [Learn more](link-to-sponsors-page) about them and how they contribute to our projects.
+We are grateful for the support of our sponsors and partners. [Learn more](https://vcwtech.com/sponsors) about them and how they contribute to our projects.
 
 ## Contact Us
 
-Have questions or want to get in touch with our team? Contact us at [email](mailto:thaddeus.r.thomas@gmail.com).
+Have questions or want to get in touch with our team? Contact us at [tsupport@vcwtech.com](mailto:tsupport@vcwtech.com).
